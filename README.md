@@ -1,5 +1,5 @@
 # Self-learning-chess-AI
-A neural network that learns to play chess from scratch (RL) by playing against itself, inspired by AlphaZero.
+A neural network that learns to play chess from scratch (RL) by playing against itself (MCTS + neural network), inspired by AlphaZero.
 
 ## Learning Process
 1. **Self-Play**:  
